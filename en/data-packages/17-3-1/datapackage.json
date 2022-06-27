@@ -11,14 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-3-1",
-  "title": "Additional financial resources mobilized for developing countries from multiple sources"
+  "title": "Foreign direct investments (FDI), official development assistance and South-South Cooperation as a proportion of total domestic budget"
 }

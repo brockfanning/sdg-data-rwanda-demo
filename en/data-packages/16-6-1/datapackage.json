@@ -11,14 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-6-1",
-  "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+  "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
 }

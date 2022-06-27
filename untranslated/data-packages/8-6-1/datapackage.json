@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of youth (aged 16-24 years) not in education, employment or training",
+                "Proportion of youth (aged 16-30 years) not in education, employment or training",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y16T24",
+                "Y16T30",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

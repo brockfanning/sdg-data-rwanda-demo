@@ -12,7 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Death rate due to road traffic injuries",
+                "Number of deaths rate due to road traffic injuries",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_TRAF",
+                "SH_STA_TRAFN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_100000_POP",
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

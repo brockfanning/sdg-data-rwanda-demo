@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total government spending on essential services, education",
+                "Proportion of total government spending on health",
+                "Proportion of total government spending on social protection",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SD_XPD_ESED",
+                "SG_XPD_HLTH",
+                "SG_XPD_PROT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +48,5 @@
   ],
   "profile": "data-package",
   "name": "1-a-2",
-  "title": "Proportion of total government spending on essential services (education, health and social protection)"
+  "title": "Proportion of total government spending on essential services (education,health and social protection)"
 }

@@ -11,14 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1",
-  "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+  "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
 }

@@ -11,14 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-7-1",
-  "title": "Degree of sustainable public procurement policies and action plan implementation"
+  "title": "Number of countries implementing sustainable public procurement policies and action plans"
 }

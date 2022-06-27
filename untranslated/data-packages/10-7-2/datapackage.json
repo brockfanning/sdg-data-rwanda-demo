@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -24,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "10-7-2",
-  "title": "Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+  "title": "Number of countries that have implemented well-managed migration policies"
 }

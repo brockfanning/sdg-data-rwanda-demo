@@ -11,14 +11,50 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Age and sex distribution of detected victims of trafficking in persons (%)",
+                "Detected victims of human trafficking (number)"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "VC_HTF_DETV",
+                "VC_VAW_DIST"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NUMBER",
+                "PT"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }
@@ -26,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "16-2-2",
-  "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+  "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation "
 }

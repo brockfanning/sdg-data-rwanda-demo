@@ -12,7 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mail volume (tonne kilometres)",
+                "Freight volume (tonne kilometres)",
+                "Passenger volume (passenger kilometres)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IS_TRP_MAILTKM",
+                "IS_RDP_FRGVOL",
+                "IS_RDP_PFVOL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
