@@ -11,28 +11,23 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "under 15 years old",
-                "16 years old and over"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "City of Kigali",
+                "Southern Province",
+                "Western Province",
+                "Northern Province",
+                "Eastern Province",
                 "Nyarugenge",
                 "Gasabo",
                 "Kicukiro",
-                "Southern Province",
                 "Nyanza",
                 "Gisagara",
                 "Nyaruguru",
@@ -41,7 +36,6 @@
                 "Ruhango",
                 "Muhanga",
                 "Kamonyi",
-                "Western Province",
                 "Karongi",
                 "Rutsiro",
                 "Rubavu",
@@ -49,20 +43,19 @@
                 "Ngororero",
                 "Rusizi",
                 "Nyamasheke",
-                "Northern Province",
                 "Rulindo",
                 "Gakenke",
                 "Musanze",
                 "Burera",
                 "Gicumbi",
-                "Eastern Province",
                 "Rwamagana",
                 "Nyagatare",
                 "Gatsibo",
                 "Kayonza",
                 "Kirehe",
                 "Ngoma",
-                "Bugesera"
+                "Bugesera",
+                ""
               ]
             },
             "title": "Reference area"
@@ -72,21 +65,33 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 years old and over",
+                "under 15 years old",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Urban",
                 "Rural",
-                "Urban"
+                ""
               ]
             },
             "title": "Degree of urbanisation"
@@ -95,11 +100,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

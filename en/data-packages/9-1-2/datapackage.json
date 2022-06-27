@@ -11,14 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Freight volume (tonne kilometres)",
                 "Mail volume (tonne kilometres)",
-                "Passenger volume (passenger kilometres)"
+                "Freight volume (tonne kilometres)",
+                "Passenger volume (passenger kilometres)",
+                ""
               ]
             },
             "title": "Observation-level footnotes"
@@ -28,10 +33,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "IS_TRP_MAILTKM",
                 "IS_RDP_FRGVOL",
                 "IS_RDP_PFVOL",
-                "IS_TRP_MAILTKM"
+                ""
               ]
             },
             "title": "Series"
@@ -41,9 +46,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "T",
                 "NUMBER",
-                "T"
+                ""
               ]
             },
             "title": "Units"
@@ -52,11 +57,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }
