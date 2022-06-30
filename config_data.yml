@@ -40,12 +40,7 @@ src_dir: ''
 inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: sdmx-data/*.xml
-    dimension_map:
-      UNIT_MEASURE: 'Units'
-      SERIES: 'Series'
-      REF_AREA|RW: ''
-    drop_dimensions:
-      - SOURCE_DETAIL
+    drop_singleton_dimensions: false
     dsd: 'RWA_C_V2_SDG DSD.xml'
     import_codes: true
   - class: InputYamlMdMeta
