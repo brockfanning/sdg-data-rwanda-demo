@@ -1,28 +1,28 @@
-Year,Reference area,Degree of urbanisation,Value
-2000,,,196
-2005,,,152
-2008,,,103
-2010,,,76
-2015,,,50
-2020,,,45
-2008,,Urban,87
-2010,,Urban,81
-2015,,Urban,51
-2008,,Rural,142
-2010,,Rural,105
-2015,,Rural,70
-2008,City of Kigali,,102
-2010,City of Kigali,,79
-2015,City of Kigali,,42
-2008,Southern Province,,127
-2010,Southern Province,,96
-2015,Southern Province,,66
-2008,Western Province,,129
-2010,Western Province,,88
-2015,Western Province,,62
-2008,Northern Province,,115
-2010,Northern Province,,107
-2015,Northern Province,,60
-2008,Eastern Province,,174
-2010,Eastern Province,,125
-2015,Eastern Province,,86
+Year,Observation status,Nature of data points,Observation-level footnotes,Unit multiplier,Source details,Frequency of observation,Reporting type,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Value
+2000,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,,"Per 1,000 live births",196
+2005,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,,"Per 1,000 live births",152
+2008,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,,"Per 1,000 live births",103
+2010,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,,"Per 1,000 live births",76
+2015,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,,"Per 1,000 live births",50
+2020,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,,"Per 1,000 live births",45
+2008,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,Urban,"Per 1,000 live births",87
+2010,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,Urban,"Per 1,000 live births",81
+2015,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,Urban,"Per 1,000 live births",51
+2008,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,Rural,"Per 1,000 live births",142
+2010,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,Rural,"Per 1,000 live births",105
+2015,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Rwanda,under 5 years old,Rural,"Per 1,000 live births",70
+2008,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],City of Kigali,under 5 years old,,"Per 1,000 live births",102
+2010,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],City of Kigali,under 5 years old,,"Per 1,000 live births",79
+2015,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],City of Kigali,under 5 years old,,"Per 1,000 live births",42
+2008,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Southern Province,under 5 years old,,"Per 1,000 live births",127
+2010,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Southern Province,under 5 years old,,"Per 1,000 live births",96
+2015,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Southern Province,under 5 years old,,"Per 1,000 live births",66
+2008,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Western Province,under 5 years old,,"Per 1,000 live births",129
+2010,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Western Province,under 5 years old,,"Per 1,000 live births",88
+2015,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Western Province,under 5 years old,,"Per 1,000 live births",62
+2008,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Northern Province,under 5 years old,,"Per 1,000 live births",115
+2010,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Northern Province,under 5 years old,,"Per 1,000 live births",107
+2015,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Northern Province,under 5 years old,,"Per 1,000 live births",60
+2008,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Eastern Province,under 5 years old,,"Per 1,000 live births",174
+2010,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Eastern Province,under 5 years old,,"Per 1,000 live births",125
+2015,Normal value,Not Available,Under-five mortality rate,Units,"DHS, NISR",Annual,National,Under-five mortality rate [3.2.1],Eastern Province,under 5 years old,,"Per 1,000 live births",86

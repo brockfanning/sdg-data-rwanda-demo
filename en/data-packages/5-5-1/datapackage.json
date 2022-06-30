@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Not Available",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -38,26 +60,80 @@
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Series",
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_050501_1",
-                "_L_RW_050501_2",
-                "_L_RW_050501_3",
-                "_L_RW_050501_4",
-                "_L_RW_050501_5",
-                "_L_RW_050501_6",
-                "_L_RW_050501_7",
-                "_L_RW_050501_8",
-                "_L_RW_050501_9",
-                "_L_RW_050501_10",
-                "_L_RW_050501_11",
-                "_L_RW_050501_12",
+                "Units",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National Electoral Commission (NEC), GMO",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual",
+                ""
+              ]
+            },
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                ""
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rwanda",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

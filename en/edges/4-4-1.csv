@@ -1,3 +1,8 @@
 From,To
-Observation-level footnotes,COMPOSITE_BREAKDOWN
+Nature of data points,Observation-level footnotes
+Observation-level footnotes,Source details
+Source details,Frequency of observation
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,COMPOSITE_BREAKDOWN
 COMPOSITE_BREAKDOWN,Degree of urbanisation

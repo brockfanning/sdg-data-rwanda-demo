@@ -1,8 +1,8 @@
-Year,Observation-level footnotes,Series,Sex,Value
-2005,Proportion of children moderately or severely wasted,SH_STA_WAST,Male,5
-2010,Proportion of children moderately or severely wasted,SH_STA_WAST,Male,3
-2015,Proportion of children moderately or severely wasted,SH_STA_WAST,Male,2
-2020,Proportion of children moderately or severely wasted,SH_STA_WAST,Male,1
-2010,Proportion of children moderately or severely overweight,SN_STA_OVWGT,Female,7
-2015,Proportion of children moderately or severely overweight,SN_STA_OVWGT,Female,8
-2020,Proportion of children moderately or severely overweight,SN_STA_OVWGT,Female,6
+Year,Observation status,Nature of data points,Observation-level footnotes,Unit multiplier,Source details,Frequency of observation,Reporting type,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2005,Normal value,Not Available,Proportion of children moderately or severely wasted,Units,National Institute of Statistics of Rwanda (NISR)-DHS,Annual,National,Proportion of children moderately or severely wasted [2.2.2],Rwanda,Male,under 5 years old,Percent,5
+2010,Normal value,Not Available,Proportion of children moderately or severely wasted,Units,National Institute of Statistics of Rwanda (NISR)-DHS,Annual,National,Proportion of children moderately or severely wasted [2.2.2],Rwanda,Male,under 5 years old,Percent,3
+2015,Normal value,Not Available,Proportion of children moderately or severely wasted,Units,National Institute of Statistics of Rwanda (NISR)-DHS,Annual,National,Proportion of children moderately or severely wasted [2.2.2],Rwanda,Male,under 5 years old,Percent,2
+2020,Normal value,Not Available,Proportion of children moderately or severely wasted,Units,National Institute of Statistics of Rwanda (NISR)-DHS,Annual,National,Proportion of children moderately or severely wasted [2.2.2],Rwanda,Male,under 5 years old,Percent,1
+2010,Normal value,Not Available,Proportion of children moderately or severely overweight,Units,National Institute of Statistics of Rwanda (NISR)-DHS,Annual,National,Proportion of children moderately or severely overweight [2.2.2],Rwanda,Female,under 5 years old,Percent,7
+2015,Normal value,Not Available,Proportion of children moderately or severely overweight,Units,National Institute of Statistics of Rwanda (NISR)-DHS,Annual,National,Proportion of children moderately or severely overweight [2.2.2],Rwanda,Female,under 5 years old,Percent,8
+2020,Normal value,Not Available,Proportion of children moderately or severely overweight,Units,National Institute of Statistics of Rwanda (NISR)-DHS,Annual,National,Proportion of children moderately or severely overweight [2.2.2],Rwanda,Female,under 5 years old,Percent,6

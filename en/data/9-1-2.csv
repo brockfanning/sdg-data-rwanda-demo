@@ -1,16 +1,16 @@
-Year,Observation-level footnotes,Series,Units,Value
-2015,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,304.96
-2016,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,249.86
-2017,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,266.55
-2018,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,339.7
-2019,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,254.87
-2015,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,7577.46
-2016,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,6660.87
-2017,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,8226.09
-2018,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,10732.41
-2019,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,12094.79
-2015,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,641817.0
-2016,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,706075.0
-2017,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,825585.0
-2018,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,977631.0
-2019,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,1145867.0
+Year,Observation status,Nature of data points,Observation-level footnotes,Unit multiplier,Source details,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Not Available,Mail volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Mail volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,304.96
+2016,Normal value,Not Available,Mail volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Mail volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,249.86
+2017,Normal value,Not Available,Mail volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Mail volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,266.55
+2018,Normal value,Not Available,Mail volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Mail volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,339.7
+2019,Normal value,Not Available,Mail volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Mail volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,254.87
+2015,Normal value,Not Available,Freight volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Freight volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,7577.46
+2016,Normal value,Not Available,Freight volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Freight volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,6660.87
+2017,Normal value,Not Available,Freight volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Freight volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,8226.09
+2018,Normal value,Not Available,Freight volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Freight volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,10732.41
+2019,Normal value,Not Available,Freight volume (tonne kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Freight volume (tonne kilometres) [9.1.2],Rwanda,Metric Tons,12094.79
+2015,Normal value,Not Available,Passenger volume (passenger kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Passenger volume (passenger kilometres) [9.1.2],Rwanda,Number,641817.0
+2016,Normal value,Not Available,Passenger volume (passenger kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Passenger volume (passenger kilometres) [9.1.2],Rwanda,Number,706075.0
+2017,Normal value,Not Available,Passenger volume (passenger kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Passenger volume (passenger kilometres) [9.1.2],Rwanda,Number,825585.0
+2018,Normal value,Not Available,Passenger volume (passenger kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Passenger volume (passenger kilometres) [9.1.2],Rwanda,Number,977631.0
+2019,Normal value,Not Available,Passenger volume (passenger kilometres),Units,Rwanda Aviation Company (RAC),Annual,National,Passenger volume (passenger kilometres) [9.1.2],Rwanda,Number,1145867.0
